@@ -188,6 +188,7 @@ View view =LayoutInflater.from(getContext()).inflate(R.layout.fragment_two, null
 
 ### 출처
 
+- null
 
 ## TODO
 
@@ -201,4 +202,5 @@ View view =LayoutInflater.from(getContext()).inflate(R.layout.fragment_two, null
 - 동적으로 뷰를 생성하는 것, 뷰를 상속받는 다는 것의 의미, 다양한 adapter종류 등 이해가 가지만, 막상 코딩을 하려면 생각하는 시간이 걸림. 
 
 ## Output
-- 생략
+
+- Fragment로 만든 TabLayout과 결과물 동일
