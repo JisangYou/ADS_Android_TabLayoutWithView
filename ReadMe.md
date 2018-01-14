@@ -2,7 +2,7 @@
 
 ## 수업 내용
 
-- View와 ViewPager를 사용해 TabLayout을 만들어봄.
+- View와 ViewPager를 사용해 TabLayout을 만드는 학습
 
 ## Code Review
 
